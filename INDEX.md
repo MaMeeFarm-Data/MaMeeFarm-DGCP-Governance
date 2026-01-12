@@ -103,3 +103,21 @@ This index reflects the living nature of DGCP™ governance while preserving cle
 
 DGCP | MMFARM-POL-2025  
 MaMeeFarm™
+---
+
+## Recent Additions (2026-01-12)
+
+The following governance components were added or activated as part of operational continuity and readiness confirmation:
+
+### Templates
+- **reports/TEMPLATE-GOVERNANCE-REPORT.md**  
+  Official template for annual, quarterly, and special governance reports.
+
+- **addendum/TEMPLATE-ADDENDUM.md**  
+  Controlled addendum template for narrowly scoped, time-bound governance clarifications or exceptions.
+
+### Decisions
+- **governance-2026/DECISIONS.md**  
+  Updated with DEC-2026-002 confirming governance continuity and operational readiness as of 2026-01-12.
+
+These additions demonstrate active use of the DGCP™ living governance framework under append-only principles.

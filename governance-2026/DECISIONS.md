@@ -9,7 +9,7 @@
 
 ## Purpose
 
-This document serves as the **authoritative registry of governance decisions** made during the 2026 operational year.
+This document serves as the authoritative registry of governance decisions made during the 2026 operational year.
 
 It records formal determinations, resolutions, and interpretations issued under DGCP™ Governance, ensuring:
 - Transparency
@@ -23,26 +23,26 @@ It records formal determinations, resolutions, and interpretations issued under 
 
 All decisions recorded herein must adhere to the following principles:
 
-- **Explicit authority** — decisions are issued under DGCP™ governance
-- **Time-bound context** — decisions apply within a defined temporal scope
-- **Non-destructive** — decisions do not erase or invalidate historical records
-- **Append-only** — entries are added, never modified or removed
-- **Traceable** — decisions reference relevant governance documents
+- Explicit authority
+- Time-bound context
+- Non-destructive continuity
+- Append-only integrity
+- Traceable references
 
 ---
 
 ## Decision Entry Format
 
-Each decision entry follows this structure:
+Each decision entry includes:
 
-- **Decision ID:** Unique identifier  
-- **Date:** YYYY-MM-DD  
-- **Status:** Active / Superseded / Archived  
-- **Scope:** Affected governance area  
-- **Reference:** Related governance documents  
-- **Decision Summary:** Clear description of the decision  
-- **Rationale:** Reasoning and context  
-- **Notes:** Optional clarifications
+- Decision ID
+- Date (ISO 8601)
+- Status
+- Scope
+- Reference
+- Decision Summary
+- Rationale
+- Notes (optional)
 
 ---
 
@@ -56,35 +56,19 @@ Each decision entry follows this structure:
 - **Reference:**  
   - `README.md`  
   - `INDEX.md`  
-  - `governance-2026/README.md`  
+  - `governance-2026/README.md`
 
 **Decision Summary:**  
 Formal establishment and activation of the MaMeeFarm™ DGCP™ living governance repository for operational governance beginning in 2026.
 
 **Rationale:**  
-To clearly separate DGCP™ core constitutional governance from time-bound, operational governance while preserving auditability, authority hierarchy, and non-destructive continuity.
+To separate DGCP™ constitutional governance from operational governance while preserving auditability and authority hierarchy.
 
 **Notes:**  
-This decision does not alter DGCP™ Core Governance and serves as the foundational operational decision for the 2026 governance year.
+Foundational operational decision for Governance Year 2026.
 
 ---
 
-*(Subsequent decisions will be appended below this line.)*
-
----
-
-## Interpretation
-
-In the event of conflict:
-- Decisions recorded here provide operational authority for the stated period
-- DGCP™ Core Governance retains constitutional priority
-- The CHANGELOG provides temporal sequencing
-- Cryptographically verifiable records prevail over narrative interpretation
-
----
-
-DGCP | MMFARM-POL-2025  
-MaMeeFarm™
 ### DEC-2026-002 — Governance Restart and Operational Continuity Confirmation
 
 - **Date:** 2026-01-12  
@@ -97,12 +81,72 @@ MaMeeFarm™
   - `governance-2026/CHANGELOG.md`
 
 **Decision Summary:**  
-Formal confirmation of governance continuity following a short operational pause, and validation that DGCP™ governance remains active, intact, and auditable without retroactive modification.
+Formal confirmation of governance continuity following a short operational pause.
 
 **Rationale:**  
-A brief pause in governance writing does not constitute governance inactivity or lapse. DGCP™ governance is designed to be resilient, append-only, and capable of resuming operations without loss of authority or integrity. This decision affirms continuity and confirms readiness to proceed with structured governance activities.
+A pause in writing does not constitute governance inactivity. Continuity remains intact.
 
 **Notes:**  
-- No changes to DGCP™ Core Governance  
-- No retroactive edits to governance records  
-- Subsequent governance activities proceed under established 2026 structures
+No retroactive edits. Structures remain valid.
+
+---
+
+### DEC-2026-003 — Determination of No Additional Governance Action
+
+- **Date:** 2026-01-18  
+- **Status:** Active  
+- **Scope:** Governance oversight and proportionality  
+- **Reference:**  
+  - `governance-2026/CHANGELOG.md`  
+  - `governance-2026/NOTES-2026-W03-STATUS.md`
+
+**Decision Summary:**  
+Formal determination that no additional governance action was required.
+
+**Rationale:**  
+Existing governance structures remained sufficient and effective.
+
+**Notes:**  
+Proportional governance preserved.
+
+---
+
+### DEC-2026-004 — Proof–DataUnit Reference Clarification
+
+- **Date:** 2026-02-18  
+- **Status:** Active  
+- **Scope:** Evidence / Proof Layer Separation  
+- **Reference:**  
+  - Governance Record dated 2026-02-18  
+  - `governance-2026/NOTES-2026-02-MONTHLY-STATUS.md`
+
+**Decision Summary:**  
+Formal clarification of reference rules between the Proof layer and DataUnit layer.
+
+**Rationale:**  
+Operational review identified artificial cross-layer linkage. Clarification reinforces structural separation.
+
+**Clarification Rules:**  
+
+1. Proof may reference a DataUnit only with contextual or operational relevance.  
+2. Sequential numbering or same-date occurrence alone is insufficient.  
+3. Artificial linkage is prohibited.
+
+**Retroactive Rule:**  
+Past records remain intact. Corrections must be documented, not rewritten.
+
+---
+
+## Interpretation
+
+In the event of conflict:
+
+- DGCP™ Core Governance retains constitutional priority
+- Decision Log provides operational authority
+- CHANGELOG provides temporal sequencing
+- Cryptographically verifiable records prevail
+
+---
+
+DGCP | MMFARM-POL-2025  
+MaMeeFarm™

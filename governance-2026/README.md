@@ -58,6 +58,18 @@ Governance in 2026 adheres to the following principles:
 
 ---
 
+## Governance Structure (2026 Repository)
+
+The 2026 Governance Repository consists of:
+
+- `DECISIONS.md` — Authoritative Decision Registry
+- `CHANGELOG.md` — Append-only governance change log
+- `INDEX.md` — Structural overview and cross-reference
+- Status Notes — Non-authoritative stability records
+
+These documents collectively define the operational governance state for 2026.
+
+---
 ## Change Management
 
 All governance actions in 2026 must be:

@@ -150,3 +150,36 @@ In the event of conflict:
 
 DGCP | MMFARM-POL-2025  
 MaMeeFarm™
+
+### DEC-2026-005 — NFT Workflow Closure
+
+- **Date:** 2026-03-03  
+- **Status:** Active  
+- **Scope:** Governance 2026 / NFT System Boundary  
+- **Reference:**  
+  - DGCP™ NFT Initialization Record (2026-03-04)
+
+**Decision Summary:**  
+Formal closure of the legacy NFT workflow effective end of day 2026-03-03.
+
+**Rationale:**  
+Legacy NFT metadata workflow accumulated structural complexity and mixed file states.  
+A defined architectural boundary was required to restore clarity and forward-only integrity.
+
+**Decision Rules:**  
+- No retroactive edits  
+- No structural migration  
+- Historical files remain unchanged  
+- New standard (DGCP NFT Standard) begins 2026-03-04  
+
+**Impact:**  
+- Legacy NFT artifacts remain valid but frozen  
+- Future NFT artifacts must follow the DGCP NFT Standard  
+- SHA-256 daily ledger serves as boundary anchor  
+
+**Governance Principle:**  
+Forward-only  
+Append-only  
+No rewrite of historical truth  
+
+---

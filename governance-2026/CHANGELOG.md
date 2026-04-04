@@ -79,3 +79,33 @@ In case of discrepancy:
 
 DGCP | MMFARM-POL-2025  
 MaMeeFarm™
+
+### 2026-03-03 — NFT Workflow Closure
+
+**Type:** Structural Decision  
+**Scope:** NFT System Boundary  
+**Reference:** DEC-2026-005  
+
+**Summary:**  
+Closure of legacy NFT workflow and establishment of architectural boundary.
+
+**Notes:**  
+- Legacy system frozen  
+- No retroactive modification  
+- Forward-only transition enforced  
+
+---
+
+### 2026-03-04 — DGCP NFT System Initialization
+
+**Type:** System Initialization  
+**Scope:** DGCP NFT Standard  
+**Reference:** DGCP-NFT-INIT-0001  
+
+**Summary:**  
+Initialization of DGCP NFT system and start of forward-only NFT sequence.
+
+**Notes:**  
+- Sequence anchor established  
+- DGCP-0001 created  
+- Append-only structure enforced  
